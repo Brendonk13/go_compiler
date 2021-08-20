@@ -1,0 +1,1 @@
+../../3-semantics+codegen/valid/verify.sh
